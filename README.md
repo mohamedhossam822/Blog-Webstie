@@ -1,6 +1,6 @@
 # Blog-Webstie
 
-A Website that lets you write personal blogs and acts as an ongoing onlie diary
+A Website that lets you write personal blogs and acts as an ongoing online diary
 
 ## Getting Started
 
