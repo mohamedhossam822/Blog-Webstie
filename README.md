@@ -5,6 +5,9 @@ A Website that lets you write personal blogs and acts as an ongoing onlie diary
 ## Getting Started
 
 - Install The required npm packages in the root directory
+```
+$ npm install
+``` 
 - run The local mongo database
 ```
 $ mongod
